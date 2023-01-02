@@ -22,13 +22,41 @@ Scanning materials with a flatbed, large format, or feed scanner is often the sa
 
 Scanning items at a high resolution allows us to use them in different ways without manipulating the items themselves. For this reason, we aim for a minimum 600 dpi image when scanning. This size specification provides a scalable file that can be used for large or small reprints while maintaining the original details of the item. 
 
-#### File Naming
+### File Naming
 
 Every scanned item needs a file name. A standardized file naming system helps us know exactly where an item belongs. Scanned files should be named using the following standardized naming rules:
   
   **collectionabbreviation_box#_envelope/folder#-item#subitem**
   
-  Notes:
-  1. Collection abbreviation refers to an abbreviated version of either Manuscript Group (mg) or Photograph Group (pg).
-  2. All information needed to name items should be found on the item and the folder, envelope, or box that it comes in.
-  3. When in doubt about how to name an item, talk to CDIL staff. 
+    Notes:
+     1. Collection abbreviation refers to an abbreviated version of either Manuscript Group (mg) or Photograph Group (pg).
+     2. All information needed to name items should be found on the item and the folder, envelope, or box that it comes in.
+     3. When in doubt about how to name an item, talk to CDIL staff. 
+
+  File name examples:
+  
+  Manuscript Group 190, box 4, folder 2, letter 1, with multiple pages becomes:
+  - mg190_b4_f2-001p001
+  - mg190_b4_f2-001p002
+  - etc.
+
+  Photograph Group 3, box 1, photograph 3 becomes:
+  - pg3_b1-003
+
+## Scanning Images
+
+#### Prepare to scan:
+
+1. Go to your personal folder in the 'Scans' folder on the C: drive at your workstation.
+2. If CDIL staff has not done so already, create a folder for the scanning project titled after the collection you're scanning (e.g. MG 190).
+3. Inside that folder, create another folder called 'tif'. This will be the destination for your initial scans.
+
+#### How to scan an image
+
+1. Turn on scanner at station. 
+2. Open EpsonScan scanning software from the shortcut on the desktop.
+3. Place the item along the left side of the scanning bed (the glass plate). Leave a slight border between the item and the edge of the glass. 
+4. Position the color separation guide so that the more saturated bar is beside the item you're scanning. Leave a 1/8" gap between the guide and the item.
+5. Close the scanner lid and press Preview in EpsonScan.
+6. After the scan finished, use the cursor to draw the selection window around the edge of the item. Include as much of the color separation guide as is needed to color balance the item. See image below:
+7. In EpsonScan, set Resolution to 600 dpi and set the length of the longest edge of the item to at least 6,000 pixels. Refer to the image below. If other settings on your screen do not match what's in this image, ask a supervisor before scanning:
