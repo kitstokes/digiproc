@@ -47,9 +47,9 @@ Every scanned item needs a file name. A standardized file naming system helps us
 
 #### Prepare to scan:
 
-1. Go to your personal folder in the 'Scans' folder on the C: drive at your workstation.
+1. Go to your personal folder in the Scans folder on the C: drive at your workstation.
 2. If CDIL staff has not done so already, create a folder for the scanning project titled after the collection you're scanning (e.g. MG 190).
-3. Inside that folder, create another folder called 'tif'. This will be the destination for your initial scans.
+3. Inside that folder, create another folder called **tiff**. This will be the destination for your initial scans.
 
 #### How to scan an image
 
