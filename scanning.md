@@ -50,7 +50,7 @@ Every scanned item needs a file name. A standardized file naming system helps us
 
 #### Prepare to scan:
 
-1. Go to your personal folder in the Scans folder on the C: drive at your workstation.
+1. Go to your personal folder in the **Scans** folder on the C: drive at your workstation.
 2. If CDIL staff has not done so already, create a folder for the scanning project titled after the collection you're scanning (e.g. MG 190).
 3. Inside that folder, create another folder called **tiff**. This will be the destination for your initial scans.
 
@@ -60,16 +60,16 @@ Every scanned item needs a file name. A standardized file naming system helps us
 2. Open EpsonScan scanning software from the shortcut on the desktop.
 3. Place the item along the left side of the scanning bed (the glass plate). Leave a slight border between the item and the edge of the glass. 
 4. Position the color separation guide so that the more saturated bar is beside the item you're scanning. Leave a 1/8" gap between the guide and the item.
-5. Close the scanner lid and press Preview in EpsonScan.
+5. Close the scanner lid and press **Preview** in EpsonScan.
 6. After the scan finished, use the cursor to draw the selection window around the edge of the item. Include as much of the color separation guide as is needed to color balance the item. See image below:
 *
-7. In EpsonScan, set Resolution to 600 dpi and set the length of the longest edge of the item to at least 6,000 pixels. Refer to the image below. If other settings on your screen do not match what's in this image, ask a supervisor before scanning:
+7. In EpsonScan, set **Resolution** to 600 dpi and set the length of the longest edge of the item to at least 6,000 pixels. Refer to the image below. If other settings on your screen do not match what's in this image, ask CDIL staff before scanning:
 *
-8. After your settings are correct, press Scan.
-9. In the File Save Settings window, you need to:
-  - Click Other and the Browse to select the folder you want your images to save to. This should be the folder labeled tif in the folder for the scanning project.
+8. After your settings are correct, press **Scan**.
+9. In the **File Save Settings** window, you need to:
+  - Click **Other** and then **Browse** to select the folder you want your images to save to. This should be the folder labeled tif in the folder for the scanning project.
   - Enter the file name prefix. This should be the file name you created minus the **subitem** number, which the Start Number field will fill in.
-  - In the Image Format section, set file type to **TIFF (*.tif).
+  - In the Image Format section, set file type to **TIFF (*.tif)**.
   Refer to the image below:
   *
 10. Press OK and the scan will begin.
