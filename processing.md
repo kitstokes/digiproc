@@ -66,3 +66,33 @@ There are two steps to successfully process scanned images and documents:
 
 9. Click **OK**. Wait for Photoshop to complete the action.
 10. Check that the files saved to the correct folder. 
+
+
+## Documents
+
+This section of the Processing Guide explains:
+
+- How to convert JPEG scans into PDFs using Adobe Acrobat.
+- How to combine multiple PDFs into one document.
+
+#### Convert JPEG scans to PDFs using Adobe Acrobat:
+
+1. Open the **lowres jpeg** folder for your scanning project.
+2. Select the item(s) you would like to convert.
+3. Right-click the selected item(s). From the context menu choose one of the following:
+        - **Convert to Adobe PDF** if converting only one file.
+        - **Combine supported files in Acrobat if converting files that need to be combined into one (like a multi-page letter or document).
+        
+        *
+        
+4. After you choose an option, a new window will open. Click **Combine** in this window.
+5. Wait for Acrobat to open your files.
+6. Find **Tools** in the top-right corner of the screen. Select **Recognize Text** and then **In this file**. 
+
+*
+
+7. Wait for Acrobat to complete the command. If working with a multi-page document, you will know it's finished when it ends back at the first page. 
+8. Save the document as a PDF following the naming rules established in the [File Naming] section.
+
+## Other Processes
+
