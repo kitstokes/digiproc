@@ -81,7 +81,7 @@ This section of the Processing Guide explains:
 2. Select the item(s) you would like to convert.
 3. Right-click the selected item(s). From the context menu choose one of the following:
         - **Convert to Adobe PDF** if converting only one file.
-        - **Combine supported files in Acrobat if converting files that need to be combined into one (like a multi-page letter or document).
+        - **Combine supported files in Acrobat** if converting files that need to be combined into one (like a multi-page letter or document).
         
         *
         
@@ -96,3 +96,34 @@ This section of the Processing Guide explains:
 
 ## Other Processes
 
+This section explains how to:
+
+- Extract text in documents through OCR
+- Batch reduce file size
+- Create actions in Photoshop
+
+### Text Recognition with Adobe Acrobat Pro DC OCR
+
+Optical Character Recognition (OCR) is a technology that recognizes text in documents and images to make them machine readable. Using Adobe Acrobat Pro DC, you can extract text through OCR on a single or multiple documents with just a few clicks.
+
+#### OCR on a single document
+
+1. Open a PDF in Adobe Acrobat Pro DC.
+2. Select **Scan & OCR** from the tool menu on the right side of the application window.
+
+*
+
+3. Select **Recognize Text** from the toolbar at the top of the screen. Choose **In This File** from the dropwdown menu:
+
+*
+
+4. In the **Recognize Text** window, check that the settings are correct:
+
+        - **Document Language: language in whcih the document is written. Most documents you work with in the CDIL will be in English (US).
+        - **Output**: Searchable Image
+        - **Downsample To**: 300 dpi
+
+*
+
+5. Click **OK** and begin the process.
+6. Save and close the file when the process finishes.
