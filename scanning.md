@@ -88,4 +88,41 @@ When conducting a documents-only scanning project, you will only need to create 
 
 Otherwise, follow the directions for scanning an image, including the [file naming conventions]. Use the color separation guide unless scanning with the feed scanner or otherwise instructed by CDIL staff. 
 
+***
+
 Have you completely finished scanning the project? Continue to the next step with the [processing guide].
+
+---
+
+## Lab Equipment
+
+Read on for an overview of the scanning equipment we use in the CDIL:
+
+The EPSON Expression 1640XL is a 42-bit color scanner capable of up to 1600 x 3200 dpi hardware resolution. The scanning bed is 12.2” x 17.2”. See user manual [here].
+
+*
+
+The EPSON Expression 10000XL is a 48-bit color scanner capable of up to 2400 x 4800 dpi hardware resolution. The scanning bed is 12.2” x 17.2”. See user manual [here].
+
+*
+
+The Epson Expression 11000XL is a 48-bit color scanner capable of up to 2400 x 4800 dpi hardware resolution. The scanning bed is 12.2” x 17.2”. See user manual [here].
+
+*
+
+The EPSON Expression 12000XL is a 48-bit color scanner capable of up to 2400 x 4800 dpi hardware resolution. The scanning bed is 12.2” x 17.2”. See user manual [here].
+
+*
+
+The Fujitsu Fi-6770 is a 24-bit color document feed scanner capable of up to 1200 dpi. We use this scanner for larger documents that have many loose pages. This machine is able to feed and scan large stacks of paper automatically. See user manual [here]. 
+
+*
+
+The Plustek OpticBook 3800 is a book edge scanner designed to eliminate spine shadows when scanning books. We use this scanner for intact books that can’t be taken apart. 
+
+*
+
+The Contex Plus HD5450 is a large format feed scanner designed for larger objects like maps, portraits, blueprints, etc. We use protective mylar sheets with this machine when scanning fragile items. Using this scanner may require two people. More information on this scanner model is available [here]. 
+
+*
+
