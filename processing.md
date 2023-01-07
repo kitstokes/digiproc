@@ -119,9 +119,9 @@ Optical Character Recognition (OCR) is a technology that recognizes text in docu
 
 4. In the **Recognize Text** window, check that the settings are correct:
 
-        - **Document Language: language in whcih the document is written. Most documents you work with in the CDIL will be in English (US).
-        - **Output**: Searchable Image
-        - **Downsample To**: 300 dpi
+- **Document Language**: language in whcih the document is written. Most documents you work with in the CDIL will be in English (US).
+- **Output**: Searchable Image
+- **Downsample To**: 300 dpi
 
 *
 
