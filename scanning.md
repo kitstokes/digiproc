@@ -2,13 +2,14 @@
 
 This is a scanning guide for anyone conducting digitization work in the Center for Digital Inquiry and Learning (CDIL) Lab.
 
-Notes:
-- Ensure that hands are clean and dry before handling materials.
-- Wear cotton gloves when necessary (ask CDIL staff if unsure).
-- Handle items with extreme care.
-- Give your full attention to the scanning process.
+    Before you scan:
+    1. Ensure that hands are clean and dry before handling materials.
+    2. Wear cotton gloves when necessary (ask CDIL staff if unsure).
+    3. Handle items with extreme care.
+    4. Give your full attention to the scanning process.
 
 Contents of this section:
+
 1. Why do we scan?
 2. File naming
 3. Scanning images
@@ -67,9 +68,24 @@ Every scanned item needs a file name. A standardized file naming system helps us
 *
 8. After your settings are correct, press **Scan**.
 9. In the **File Save Settings** window, you need to:
-  - Click **Other** and then **Browse** to select the folder you want your images to save to. This should be the folder labeled tif in the folder for the scanning project.
-  - Enter the file name prefix. This should be the file name you created minus the **subitem** number, which the **Start Number** field will fill in.
+  - Click **Other** and then **Browse** to select the folder you want your images to save to. This should be the folder labeled **tiff** in the folder for the scanning project.
+  - Enter the file name prefix. This should be the file name you created minus the **subitem** number, which the **Start Number** field will fill in. See [File Naming] for complete details.
+  - **Start Number should be set at **01** if you're starting a new project. If you're continuing a project, it should be set to the next sequential number.
   - Set **Image Format** file type to **TIFF (*.tif)**.
   Refer to the image below:
   *
 10. Press **OK** and the scan will begin.
+
+
+## Scanning Documents
+
+Document scans have different technical requirements. In the CDIL we:
+
+- Scan all documents at 400 dpi.
+- Scan all documents straight to JPEG format.
+
+When conducting a documents-only scanning project, you will only need to create a **lowres jpeg** folder before you begin. Scan all documents in the project to this folder. 
+
+Otherwise, follow the directions for scanning an image, including the [file naming conventions]. Use the color separation guide unless scanning with the feed scanner or otherwise instructed by CDIL staff. 
+
+Have you completely finished scanning the project? Continue to the next step with the [processing guide].
