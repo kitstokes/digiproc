@@ -106,7 +106,9 @@ This section explains how to:
 
 Optical Character Recognition (OCR) is a technology that recognizes text in documents and images to make them machine readable. Using Adobe Acrobat Pro DC, you can extract text through OCR on a single or multiple documents with just a few clicks.
 
-#### OCR on a single document
+#### OCR on a Single Document
+
+Follow this process to extract text through OCR on one document.
 
 1. Open a PDF in Adobe Acrobat Pro DC.
 2. Select **Scan & OCR** from the tool menu on the right side of the application window.
@@ -127,3 +129,57 @@ Optical Character Recognition (OCR) is a technology that recognizes text in docu
 
 5. Click **OK** and begin the process.
 6. Save and close the file when the process finishes.
+
+#### Batch OCR on Multiple Documents
+
+Follow this process to extract text through OCR on multiple documents at one time.
+
+1. Open Adobe Acrobat Pro DC. Click the **Tools** menu in the top-left corner.
+
+*
+
+2. Click **Scan & OCR** in the **Create & Edit** tool group.
+3. Click **Or recognize text in multiple files** under the blue Start button. 
+
+*
+
+4. Click **Add Files...** to manually add files or drag and drop files into the window.
+
+*
+
+5. Output options:
+- **Target folder**: choose to save the items to the same folder as the originals or to save them to a new folder.
+- **File naming**: choose to keep the same file name or input a tet or number string before or after the original name.
+6. Click **OK**. Check the **General Settings** dialog that opens. Set PDFs to **300 dpi** to reduce file size issues later.
+7. Click **OK** to start the OCR process.
+
+
+### Batch Reduce File Size
+
+Follow this process to reduce the file size of many PDFs at once using Adobe Acrobat Pro DC. 
+
+1. In Acrobat, open the **File** menu and select **File** > **Save As Other** > **Reduce Size PDF**.
+2. In the **Arrange documents** dialog box, add files by selecting **Add Files...** or drag and drop files into the window. Click **OK**.
+
+*
+
+3. In the next window, choose **Retain existing** for the compatibility options and click **OK**.
+4. Output options:
+- **Target folder**: choose to save the items to the same folder as the originals or to save them to a new folder.
+- **File naming**: choose to keep the same file name or input a text or number string before or after the original name.
+
+*
+
+5. Click **OK** to start the process.
+
+### Creating Batch Actions in Photoshop
+
+Follow these steps to learn how to make the two Photoshop actions required for the CDIL digitization process.
+
+#### Action: tiff > access jpep
+
+        Before you begin:
+        Open Photoshop. Is the **Action Window** visible? Make sure by selecting the **Window** menu at the top of the screen and click **Actions**. 
+
+1. Open one of the tiff files from your scanning project in Photoshop. 
+2. In the **Action Window**, click on the **Create New Action** button. It looks like a small square with a plus sign. 
