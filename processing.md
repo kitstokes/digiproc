@@ -12,7 +12,7 @@ Contents of this section:
 
 ---
 
-## Images
+## Processing Images
 
 There are two steps to successfully process scanned images and documents:
 
@@ -68,7 +68,7 @@ There are two steps to successfully process scanned images and documents:
 10. Check that the files saved to the correct folder. 
 
 
-## Documents
+## Processing Documents
 
 This section of the Processing Guide explains:
 
@@ -93,6 +93,8 @@ This section of the Processing Guide explains:
 
 7. Wait for Acrobat to complete the command. If working with a multi-page document, you will know it's finished when it ends back at the first page. 
 8. Save the document as a PDF following the naming rules established in the [File Naming] section.
+
+---
 
 ## Other Processes
 
