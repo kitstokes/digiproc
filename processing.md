@@ -23,7 +23,7 @@ There are two steps to successfully process scanned images and documents:
         
         Go to the folder for this scanning project. Check for two folders labeled **access jpeg** and **lowres jpeg**. Create the folders if they do not exist. 
 
-## Convert files from TIFF to JPEG
+## Convert Files from TIFF to JPEG
 
 1. Open Photoshop. Go to File > Automate > Batch.
 
@@ -43,7 +43,7 @@ There are two steps to successfully process scanned images and documents:
 
 5. Check that the files saved to the correct folder. 
 
-## Crop and convert files to low resolution JPEGs:
+## Crop and Convert Files to Low Resolution JPEGs:
 
 ### Crop:
 
@@ -75,7 +75,7 @@ This section of the Processing Guide explains:
 - How to convert JPEG scans into PDFs using Adobe Acrobat.
 - How to combine multiple PDFs into one document.
 
-### Convert JPEG scans to PDFs using Adobe Acrobat:
+### Convert JPEG Scans to PDFs Using Adobe Acrobat:
 
 1. Open the **lowres jpeg** folder for your scanning project.
 2. Select the item(s) you would like to convert.
