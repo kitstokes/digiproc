@@ -19,9 +19,8 @@ There are two steps to successfully process scanned images and documents:
 1. Convert files from **TIFF** to **JPEG**.
 2. Crop and convert files to low resolution **JPEG**. 
 
-        Before you begin:
-        
-        Go to the folder for this scanning project. Check for two folders labeled **access jpeg** and **lowres jpeg**. Create the folders if they do not exist. 
+**Before you begin**:
+Go to the folder for this scanning project. Check for two folders labeled **access jpeg** and **lowres jpeg**. Create the folders if they do not exist. 
 
 ## Convert Files from TIFF to JPEG
 
