@@ -180,8 +180,64 @@ Follow these steps to learn how to make the two Photoshop actions required for t
 
 **Before you begin**:
 
-        Open Photoshop. Is the **Action Window** visible? 
-        Make sure by selecting the **Window** menu at the top of the screen and clicking **Actions**. 
+Open Photoshop. Is the **Action Window** visible? 
+Make sure by selecting the **Window** menu at the top of the screen and clicking **Actions**. 
 
 1. Open one of the tiff files from your scanning project in Photoshop. 
-2. In the **Action Window**, click on the **Create New Action** button. It looks like a small square with a plus sign. 
+2. In the **Action Window**, click on the **Create New Action** button. It is a small square with a plus sign. 
+
+**
+
+3. In the **New Action** window, set the name of the new action to tiff > jpeg.
+
+*
+
+4. Click **Record**. 
+5. In the **File** menu select **Save As...**. Navigate to the **access jpeg** folder for your scanning project.
+6. Choose **JPEG** from the **Save as** type drop down menu. Click **Save**. 
+
+*
+
+7. In the **JPEG Options** window change the **Quality** value to 10 and click **OK**.
+
+*
+
+8. Select **Close** from the **File** menu or use Ctrl + W.
+
+*
+
+9. Click the square **Stop** icon in the Action Window.
+
+*
+
+#### Action: access jpeg > lowres jpeg
+
+**Before you begin**:
+
+Open Photoshop. Is the **Action Window** visible? 
+Make sure by selecting the **Window** menu at the top of the screen and clicking **Actions**. 
+
+1. Open one of the **access jpeg** files from your scanning project. 
+2. In the **Action Window**, click on the **Create New Action** button. It is a small square with a plus sign. 
+
+*
+
+3. In the **New Action** window, set the name of the new action to **lowres jpeg**. 
+
+*
+
+4. Press **Record**.
+5. In the **File** menu select **Save As...**. Navigate to the **lowres jpeg** folder for your scanning project.
+6. Choose **JPEG** from the **Save as** type drop down menu. Click **Save**.
+
+*
+
+7. In the **JPEG Options** window change the **Quality** value to 8 and click **OK**.
+
+*
+
+8. Select **Close** from the **File** menu or use Ctrl + W.
+
+*
+
+9. Click the square **Stop** icon in the Action Window to stop the recording. 
