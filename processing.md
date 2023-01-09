@@ -178,10 +178,10 @@ Follow these steps to learn how to make the two Photoshop actions required for t
 
 #### Action: tiff > access jpep
 
-        Before you begin:
+**Before you begin**:
+
         Open Photoshop. Is the **Action Window** visible? 
-        
-        Make sure by selecting the <b>Window</b> menu at the top of the screen and clicking **Actions**. 
+        Make sure by selecting the **Window** menu at the top of the screen and clicking **Actions**. 
 
 1. Open one of the tiff files from your scanning project in Photoshop. 
 2. In the **Action Window**, click on the **Create New Action** button. It looks like a small square with a plus sign. 
