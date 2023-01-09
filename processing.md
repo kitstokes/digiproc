@@ -23,7 +23,7 @@ There are two steps to successfully process scanned images and documents:
         
         Go to the folder for this scanning project. Check for two folders labeled **access jpeg** and **lowres jpeg**. Create the folders if they do not exist. 
 
-### Convert files from TIFF to JPEG
+## Convert files from TIFF to JPEG
 
 1. Open Photoshop. Go to File > Automate > Batch.
 
@@ -43,9 +43,9 @@ There are two steps to successfully process scanned images and documents:
 
 5. Check that the files saved to the correct folder. 
 
-### Crop and convert files to low resolution JPEGs:
+## Crop and convert files to low resolution JPEGs:
 
-#### Crop:
+### Crop:
 
 1. Go to the **access jpeg** folder. 
 2. Open the first image in Photoshop.
@@ -54,7 +54,7 @@ There are two steps to successfully process scanned images and documents:
 5. Save and close the image when finished.
 6. Complete steps 1-5 until all files have been cropped. Then, continue with steps below. 
 
-#### Convert:
+### Convert:
 
 7. In Photoshop, open the **Batch** window and change the settings to the following:
 
@@ -75,7 +75,7 @@ This section of the Processing Guide explains:
 - How to convert JPEG scans into PDFs using Adobe Acrobat.
 - How to combine multiple PDFs into one document.
 
-#### Convert JPEG scans to PDFs using Adobe Acrobat:
+### Convert JPEG scans to PDFs using Adobe Acrobat:
 
 1. Open the **lowres jpeg** folder for your scanning project.
 2. Select the item(s) you would like to convert.
@@ -104,11 +104,11 @@ This section explains how to:
 - Batch reduce file size
 - Create actions in Photoshop
 
-### Text Recognition with Adobe Acrobat Pro DC OCR
+## Text Recognition with Adobe Acrobat Pro DC OCR
 
 Optical Character Recognition (OCR) is a technology that recognizes text in documents and images to make them machine readable. Using Adobe Acrobat Pro DC, you can extract text through OCR on a single or multiple documents with just a few clicks.
 
-#### OCR on a Single Document
+### OCR on a Single Document
 
 Follow this process to extract text through OCR on one document.
 
@@ -132,7 +132,7 @@ Follow this process to extract text through OCR on one document.
 5. Click **OK** and begin the process.
 6. Save and close the file when the process finishes.
 
-#### Batch OCR on Multiple Documents
+### Batch OCR on Multiple Documents
 
 Follow this process to extract text through OCR on multiple documents at one time.
 
@@ -156,7 +156,7 @@ Follow this process to extract text through OCR on multiple documents at one tim
 7. Click **OK** to start the OCR process.
 
 
-### Batch Reduce File Size
+## Batch Reduce File Size
 
 Follow this process to reduce the file size of many PDFs at once using Adobe Acrobat Pro DC. 
 
@@ -174,11 +174,11 @@ Follow this process to reduce the file size of many PDFs at once using Adobe Acr
 
 5. Click **OK** to start the process.
 
-### Creating Batch Actions in Photoshop
+## Creating Batch Actions in Photoshop
 
 Follow these steps to learn how to make the two Photoshop actions required for the CDIL digitization process.
 
-#### Action: tiff > access jpep
+### Action: tiff > access jpep
 
 **Before you begin**:
 
@@ -212,7 +212,7 @@ Make sure by selecting the **Window** menu at the top of the screen and clicking
 
 *
 
-#### Action: access jpeg > lowres jpeg
+### Action: access jpeg > lowres jpeg
 
 **Before you begin**:
 
