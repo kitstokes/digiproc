@@ -11,3 +11,14 @@ Not all of the fields listed below will appear on every metadata spreadsheet. So
 The metadata categories in this document are divided into two different guides: one for CDIL student workers and one for CDIL staff. **If you are a student worker**, please only fill in the metadata categories in the student worker section.
 
 Refer to CDIL staff if you have questions about metadata not answered in the document.
+
+---
+
+Metadata (Students)
+
+title
+- **Required**.
+- The name of an item. Either the given title of an item or a short, descriptive set of words used to identify it.
+- Use "sentence case". Only capitalize the first word of the title, unless referring to a proper noun (Dylan Fuller, Empire State Building, Logging camp on the Potlatch River, etc.).
+- For questions on how to title photographs in a series, please refer to CDIL staff. 
+- Example value: 'Hecla Mine; Students playing baseball'
