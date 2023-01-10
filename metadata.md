@@ -14,11 +14,21 @@ Refer to CDIL staff if you have questions about metadata not answered in the doc
 
 ---
 
-Metadata (Students)
+## Metadata (Students)
 
-title
+#### title
+
 - **Required**.
 - The name of an item. Either the given title of an item or a short, descriptive set of words used to identify it.
 - Use "sentence case". Only capitalize the first word of the title, unless referring to a proper noun (Dylan Fuller, Empire State Building, Logging camp on the Potlatch River, etc.).
 - For questions on how to title photographs in a series, please refer to CDIL staff. 
-- Example value: 'Hecla Mine; Students playing baseball'
+- Example value: `Hecla Mine; Students playing baseball`
+
+#### description
+
+  - **Required**
+  - A detailed 1-3 sentence account of the item to commuicate what it is and its contents.
+  - Include small details such as "mountains can be seen in the background".
+  - Include names of people and places when known.
+  - Write in complete sentences with a single space between sentences. 
+  - Example value: `Students on lawn in front of old Gault Hall. Gault Hall was torn down in 2003 to make room for the current Living Learning Communities.
