@@ -55,7 +55,7 @@ The individual or entity that created the item.
 - For photographs, this is the photographer or the studio.
 - Use Last Name, First Name format.
 - If additional names are included, use Last Name, First Name, "Nickname" Middle Name Maiden name
-- Example values: `Riegger, Hal; Barnard Studio;`
+- Example values: `Riegger, Hal; Barnard Studio`
 
 ### date
 
@@ -82,7 +82,7 @@ The geographic location(s) and/or place names associated with the item.
 - Follow City, State format.
 - Extend this to City, County, State, Country depending on the collection.
 - Separate multiple location entries for a single record with a semicolon but no space.
-- Example values: `Boise, Idaho;Potlatch, Latah County, Idaho;Jakarta, Indonesia"
+- Example values: `Boise, Idaho;Potlatch, Latah County, Idaho;Jakarta, Indonesia`"
 
 ### latitude
 
@@ -120,7 +120,7 @@ Specifies the format of the original physical object.
 
 - Choose a word or phrase that best describes the format. There is no controlled vocabulry for this field.
 - Be consistent with items across a single collection.
-- Example value: `black-and-white photograph; color photograph; article; scrapbook; newspaper clipping; magazine
+- Example value: `black-and-white photograph; color photograph; article; scrapbook; newspaper clipping; magazine`
 
 ### format
 
@@ -135,3 +135,64 @@ The digital format of the item.
 - Video: `video/mp4`
 
 ## Metadata (Staff)
+
+### filename
+
+The exact filename belonging to the item. **This links the metadata to the item**. 
+
+- **Required**
+- Identifier + extension (.jpg, .tif, .pdf, .wav, etc.).
+- Example value: `lhijf_1982b.jpg`
+
+### source
+
+The physical source of the item.
+
+- May include the physical collection's collection number or call number.
+- Usually follows a Collection Name, Organization Name pattern. 
+- Check with CDIL or Special Collections staff if unsure about the source of an item.
+- Example value: `Idaho Cities and Towns Photographs, PG 5, University of Idaho Library Special Collections and Archives`
+
+### type
+
+Indicates what type of content the material contains.
+
+- You may only enter one value in this field. If an item has more than one type of content, choose the nost domninant type.
+- Choose from the following options:
+- `Text`: any typed or written material.
+- `Image;StillImage`: photographs, negatives, etc.
+- `Image;MovingImage`: video.
+- `Sound`: audio recording.
+
+### relation
+
+Indicates if there is a relationship between collections.
+
+- Not often used. The Digital Projects Manager will usually populate this field.
+
+### digital collection
+
+The name of the digital collection to which all the material belongs.
+
+- Links viewers to the digital collection.
+- Provides a connection with the physical material.
+- Example value: `Lionel Hampton Jazz Festival Collection`
+
+### contributing institution
+
+Indicates the institution that owns and/or contributed the material in the collection.
+
+- Only fill in this cell if there is a contributing institution other than the University of Idaho Library.
+- Example value: `Potlatch Historical Society`
+
+### language
+
+A three-letter code that indicates the language used in the material.
+
+- Use the Library of Congress [ISO 639-2 COdes for the Representation of Names and Languages](https://www.loc.gov/standards/iso639-2/php/code_list.php) to identify the correct language code.
+- Multiple langugae codes should be separated by a semi-colon and no space.
+- Example value: `eng;fre;spa`
+
+### rights
+
+A copyright statement indicating to researchers if permissions are required to use the material in publication and how to attribute the item if used. 
