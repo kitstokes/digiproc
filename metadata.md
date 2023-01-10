@@ -18,16 +18,18 @@ Refer to CDIL staff if you have questions about metadata not answered in the doc
 
 ### title
 
+The name of an item. Either the given title of an item or a short, descriptive set of words used to identify it.
+
 - **Required**.
-- The name of an item. Either the given title of an item or a short, descriptive set of words used to identify it.
 - Use "sentence case". Only capitalize the first word of the title, unless referring to a proper noun (Dylan Fuller, Empire State Building, Logging camp on the Potlatch River, etc.).
 - For questions on how to title photographs in a series, please refer to CDIL staff. 
 - Example value: `Hecla Mine; Students playing baseball`
 
 ### description
 
+A detailed 1-3 sentence account of the item to commuicate what it is and its contents.
+
   - **Required**.
-  - A detailed 1-3 sentence account of the item to commuicate what it is and its contents.
   - Include small details such as "mountains can be seen in the background".
   - Include names of people and places when known.
   - Write in complete sentences with a single space between sentences. 
@@ -38,7 +40,7 @@ Refer to CDIL staff if you have questions about metadata not answered in the doc
 Subjects allow researchers searching for one thing in particular to narrow collections down to their interests.
 
 - **Required**.
-- Keywords that descrie or relate to the material.
+- Keywords that describe or relate to the material.
 - Separate entries with a semi-colon but no space.
 - Include 2-4 entries when possible, but more are encouraged.  
 - Use the [Getty Art and Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat) to locate subject terms.
@@ -47,4 +49,89 @@ Subjects allow researchers searching for one thing in particular to narrow colle
 
 ### creator
 
-Creator is the individual or entity that created the item.
+The individual or entity that created the item.
+
+- For articles or publications, this is the author.
+- For photographs, this is the photographer or the studio.
+- Use Last Name, First Name format.
+- If additional names are included, use Last Name, First Name, "Nickname" Middle Name Maiden name
+- Example values: `Riegger, Hal; Barnard Studio;`
+
+### date
+
+Refers to the date the item was created or published.
+
+- Use yyyy-mm-dd format if you know the exact date.
+- Use yyyy-mm if you only know the month and year.
+- Use yyyy if you only know the year. 
+- If there is no year included with the item, you may estimate the nearest decade if you know enough information from the content and context of the item. Ask CDIL staff for more information.
+- If estimating a date, be sure to fill in 'yes' in the 'date is approximate' cell.
+- Example values: `1955-12-08; 1955-12; 1955`
+
+### date is approximate
+
+Indicates that the date is an estimation and not exact.
+
+- Only enter 'yes' if there is an estimation. Otherwise, leave blank.
+- Example value: `yes`
+
+### location
+
+The geographic location(s) and/or place names associated with the item.
+
+- Follow City, State format.
+- Extend this to City, County, State, Country depending on the collection.
+- Separate multiple location entries for a single record with a semicolon but no space.
+- Example values: `Boise, Idaho;Potlatch, Latah County, Idaho;Jakarta, Indonesia"
+
+### latitude
+
+A geographic coordinate specifying the north-south position of an item.
+
+- Find latitude and longitude using [Google Maps](maps.google.com):
+    - Search for the approximate location then right-click on a point.
+    - Select the coordinates displayed at the top of the menu. This will copy the values to your clipboard.
+- Paste the coordinates into the field in the metadata sheet.
+- Split latitude and longitude values into two separate fields. See 'longitude' below.
+- Example value: `46.72762`
+
+### longitude
+
+A geographic coordinate specifying the east-west position of an item.
+
+- Find latitude and longitude using [Google Maps](maps.google.com):
+- Search for the approximate location then right-click on a point.
+- Select the coordinates displayed at the top of the menu. This will copy the values to your clipboard.
+- Paste the coordinates into the field in the metadata sheet.
+- Split latitude and longitude values into two separate fields.
+- Example value: `-117.01353`
+
+### identifier
+
+The unique identifier assigned to the object by the object's physical source collection.
+
+- Usually found on the folder or box for the collection.
+- Ask CDIL staff if unsure about identifier.
+- Example value: `ARG-02-16-1993`
+
+### format original
+
+Specifies the format of the original physical object.
+
+- Choose a word or phrase that best describes the format. There is no controlled vocabulry for this field.
+- Be consistent with items across a single collection.
+- Example value: `black-and-white photograph; color photograph; article; scrapbook; newspaper clipping; magazine
+
+### format
+
+The digital format of the item.
+
+- **Required**.
+- This field tells the viewer what format the uploaded material is.
+- Choose from one of the following options:
+- Image: `image/jpeg`
+- Document: `application/pdf`
+- Audio: `audio/mp3`
+- Video: `video/mp4`
+
+## Metadata (Staff)
