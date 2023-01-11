@@ -196,3 +196,19 @@ A three-letter code that indicates the language used in the material.
 ### rights
 
 A copyright statement indicating to researchers if permissions are required to use the material in publication and how to attribute the item if used. 
+
+- Example copyright value: `Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact the University of Idaho Library Special Collections and Archives Department.`
+- Example public domain value: `Material has passed into public domain. Digital reproduction permission has been granted by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department.`
+
+### rightsstatement
+
+A standardized rights statement designated in the form of a Uniform Resource Identifier (URI).
+
+- Use a [Creative Commons](creativecommons.org) URI or a [Rights Statement](rightsstatements.org) URI.
+- Example value: `http://rightstatements.org/vocab/NoC-US/1.0/`
+
+### original file name
+
+Refers to the call number that designates its location in the University of Idaho Library or to the original file name that we may have edited to fit CDIL standards. 
+
+- Not always used. Talk to CDIL staff or Special Collections staff with questions.
