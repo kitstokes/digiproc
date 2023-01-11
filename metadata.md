@@ -128,7 +128,8 @@ The digital format of the item.
 
 - **Required**.
 - This field tells the viewer what format the uploaded material is.
-- Choose from one of the following options:
+
+Choose from the following options:
 - Image: `image/jpeg`
 - Document: `application/pdf`
 - Audio: `audio/mp3`
@@ -158,7 +159,8 @@ The physical source of the item.
 Indicates what type of content the material contains.
 
 - You may only enter one value in this field. If an item has more than one type of content, choose the nost domninant type.
-- Choose from the following options:
+
+Choose from the following options:
 - `Text`: any typed or written material.
 - `Image;StillImage`: photographs, negatives, etc.
 - `Image;MovingImage`: video.
