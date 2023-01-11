@@ -88,7 +88,7 @@ The geographic location(s) and/or place names associated with the item.
 
 A geographic coordinate specifying the north-south position of an item.
 
-- Find latitude and longitude using [Google Maps](maps.google.com) by right clicking on a point and clicking the coordinates displayed in the top of the menu.
+- Find latitude and longitude using [Google Maps](maps.google.com) by right-clicking on a point and clicking the coordinates displayed in the top of the menu.
 - Paste the coordinates into the field in the metadata sheet.
 - Split latitude and longitude values into two separate fields. See 'longitude' below.
 - Example value: `46.72762`
@@ -97,7 +97,7 @@ A geographic coordinate specifying the north-south position of an item.
 
 A geographic coordinate specifying the east-west position of an item.
 
-- Find latitude and longitude using [Google Maps](maps.google.com) by right clicking on a point and clicking the coordinates displayed in the top of the menu.
+- Find latitude and longitude using [Google Maps](maps.google.com) by right-clicking on a point and clicking the coordinates displayed in the top of the menu.
 - Paste the coordinates into the field in the metadata sheet.
 - Split latitude and longitude values into two separate fields.
 - Example value: `-117.01353`
