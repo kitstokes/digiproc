@@ -64,6 +64,7 @@ Every scanned item needs a file name. A standardized file naming system helps us
 5. Close the scanner lid and press **Preview** in EpsonScan.
 6. After the preview scan finishes, use the cursor to draw the selection window around the edge of the item. Include as much of the color separation guide as is needed to color balance the item. See image below:
 <img src="/digiproc/objects/1_preview.jpeg" alt="Preview Image">
+
 7. In EpsonScan, set **Resolution** to 600 dpi and set the length of the longest edge of the item to at least 6,000 pixels. Refer to the image below. If other settings on your screen do not match what's in this image, ask CDIL staff before scanning:
 *
 8. After your settings are correct, press **Scan**.
